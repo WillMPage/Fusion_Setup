@@ -62,7 +62,7 @@
                   "kind" : "addonCatalog",
                   "payload" : {
                     "addonId" : "https:\/\/aiometadata.stremio.ru\/stremio\/a4d55840-0467-420b-bcb7-5849901f0908\/manifest.json",
-                    "catalogId" : "all::trakt.watchlist",
+                    "catalogId" : "all::mdblist.watchlist",
                     "type" : "series"
                   }
                 }
